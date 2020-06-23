@@ -2,7 +2,8 @@
 	"pluginmetadataversion": 2,
 	"name": "ETW breaker",
 	"type": [
-		"binaryview"
+		"binaryview",
+		"helper"
 	],
 	"api": [
 		"python3"
